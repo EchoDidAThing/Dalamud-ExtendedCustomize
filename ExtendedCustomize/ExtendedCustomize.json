@@ -1,0 +1,10 @@
+{
+  "Author": "Echo",
+  "Name": "Extended Customize",
+  "Punchline": "Mod all the shit things.",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Modding"
+  ]
+}
